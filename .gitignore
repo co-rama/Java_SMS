@@ -19,7 +19,8 @@ Homestead.json
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
 *.jar
-img/*
-images/*
-font/*
-scss/*
+WebContent/img/*
+WebContent/images/*
+WebContent/font/*
+WebContent/scss/*
+WebContent/js/*
